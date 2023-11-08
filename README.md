@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Amgad
-- 👀 I’m interested in Web develp[ment
+- 👀 I’m interested in Web develpoment
 - 🌱 I’m currently learning  Mean stack (React js ,Mongodb ,Node js ,Express js)
 - 💞️ I'm looking to collaborate on developing good web sites
 - 📫 How to reach me mohamedamgadofficial@gmail.com
