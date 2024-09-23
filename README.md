@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amgad</h1>
 <h3 align="center">A passionate software engineer with a focus on both frontend and backend development, graduated from the Faculty of Computers at Ain Shams University in Cairo, Egypt. I have a deep interest in building dynamic and efficient applications that provide great user experiences and reliable performance.</h3>
 <div style="margin-bottom:20px">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 <p align="left" style="margin-top:20px"> <img src="https://komarev.com/ghpvc/?username=mohamedamgad200&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedamgad200""/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamgad200" alt="mohamedamgad200" /></a> </p>
