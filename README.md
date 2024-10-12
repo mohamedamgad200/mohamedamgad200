@@ -7,7 +7,7 @@
 <p align="left" style="margin-top:20px"> <img src="https://komarev.com/ghpvc/?username=mohamedamgad200&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedamgad200""/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamgad200" alt="mohamedamgad200" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs,Anguluarjs,Nextjs,Java,spring,springboot**
+- 🌱 I’m currently learning **Reactjs,Angularjs,Nextjs,Java,spring,springboot**
 
 - 💬 Ask me about **C++,JavaScript,Java**
 
