@@ -30,7 +30,10 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedamgad200&show_icons=true&locale=en&layout=compact" alt="mohamedamgad200" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedamgad200&show_icons=true&locale=en&layout=compact&langs_count=10" alt="mohamedamgad200" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedamgad200&show_icons=true&locale=en" alt="mohamedamgad200" /></p>
 
